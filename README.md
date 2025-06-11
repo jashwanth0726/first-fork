@@ -1,6 +1,7 @@
 # US Cyber Open 2024
 
-## About
+## About 
+#cyber
 
 Challenges and writeups for the US Cyber Open for 2024. This event is used as the start of Season IV of the US Cyber Games for team selection for the International Cybersecurity Championship & Challenge in Fall, 2025.
 
